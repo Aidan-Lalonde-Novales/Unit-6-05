@@ -1,43 +1,43 @@
 /* Styling attributes. */
 
 body {
- background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 .maincontent {
- margin: 120px;
- border-style: double;
- border-width: 5px;
- border-color: black;
- background-color: white;
- overflow: auto;
+  margin: 120px;
+  border-style: double;
+  border-width: 5px;
+  border-color: black;
+  background-color: white;
+  overflow: auto;
 }
 
 .text {
- margin: 15px;
- font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- text-align: center;
+  margin: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
 }
 
 .table {
- margin: 15px;
- font-size: 25px;
- font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 15px;
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .school {
- float: left;
- display: block;
- margin: 10px;
- width: 270px;
+  float: left;
+  display: block;
+  margin: 10px;
+  width: 270px;
 }
 
 .bigbutton {
- font-size: 22px;
+  font-size: 22px;
 }
 
 .splitter {
- margin-left: 20px;
- margin-right: 20px;
- color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
 }

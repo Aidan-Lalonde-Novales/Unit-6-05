@@ -10,7 +10,7 @@ function textboxChecker () {
     document.getElementById('result').innerHTML = 'It is a Weekend.' // If it is a weekend, this will display.
   } else if (userAge >= 18) { // Checks to see if the user's age is above 18.
     document.getElementById('result').innerHTML = 'It is a Work Day.' // If user age is 18 or above, this will display.
-  } else if (userAge <= 17) { //Checks to see if the user's age is under 17.
+  } else if (userAge <= 17) { // Checks to see if the user's age is under 17.
     document.getElementById('result').innerHTML = 'It is a School Day.' // If the user is under 18, this will display.
   } else {
     document.getElementById('result').innerHTML = 'Please enter valid information.' // This will display if invalid imformation is presented.
